@@ -1,0 +1,79 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background: url(./baackground.webp);
+    background-repeat: no-repeat;
+}
+
+#head1 {
+
+    border-radius: 8px;
+    font-size: 45px;
+    width: 388px;
+    margin-left: 42%;
+}
+
+.profilepic {
+    height: 273px;
+    width: 268px;
+    border-radius: 0px;
+    margin-left: 43%;
+    border-radius: 24px;
+
+}
+
+.about h1 {
+    color: red;
+    font-size: 45px;
+    text-align: center;
+
+}
+
+.about p {
+    font-size: 22px;
+}
+
+.skills h1 {
+
+    font-size: 45px;
+    text-align: center;
+}
+
+#skill1 {
+    margin-left: 33%;
+    height: 110px;
+    width: 264px;
+}
+
+#skill2 {
+    height: 132px;
+    width: 170px;
+}
+
+#skill3 {
+    height: 100px;
+    width: 100px;
+}
+
+.map h1 {
+
+    font-size: 45px;
+    text-align: center;
+}
+
+.map iframe {
+    width: 100%;
+}
+
+.socialsites h2 {
+    margin: 0;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin: 0;
+}
+
+#a {
+    padding-left: 45%;
+}
